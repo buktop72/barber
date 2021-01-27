@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.menu {
+  display: inline;
+  padding: 15px;
+  color: #ffffff;
+  font-family: "franklin gothic medium";
+  margin-top: 500px;
+  margin-left: 40px;
+}
+body {
+  background-color: #1f262e;
+  color: #ffffff;
+  font-family: "franklin gothic medium";
+}
+.holl {
+  margin-top: 100px;
+  margin-left: 95px;
+}
+footer {
+  margin-left: 40px;
+  margin-top: 5px;
+}
